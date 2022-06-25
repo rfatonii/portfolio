@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+
+body {
+    background-color: rgb(24, 23, 23);
+    color: white;
+}
+
+nav {
+    background: none;
+    opacity: 0.8;
+}
+
+.text-name {
+    margin: auto;
+}
+
+
+.top-wrapper {
+    height: 680px;
+    background-size: cover;
+    background-image: url('img/gunung.png.jpg');
+
+}
+
+.header {
+    padding-top: 100px;
+}
+
+.clm-logo:hover{
+    background-color:rgb(255, 255, 255);
+    transition: 0.7s ease-out;
+}
+
+/* .certificate {
+    border-: rgb(219, 170, 8);
+} */
