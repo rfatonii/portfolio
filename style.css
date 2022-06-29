@@ -39,3 +39,11 @@ nav {
 /* .certificate {
     border-: rgb(219, 170, 8);
 } */
+
+
+
+@media screen and (max-width: 1200px){
+    .card-title {
+        min-height: 48px;
+    }  
+}
