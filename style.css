@@ -41,8 +41,18 @@ nav {
 } */
 
 
+
 @media screen and (max-width: 1200px){
     .card-title {
         min-height: 48px;
     }  
+    .long-text {
+        font-size: 9px;
+    }
 }
+
+/* @media screen and (max-width: 453px){
+    .long-text {
+        font-size: 9px;
+    }  
+} */
