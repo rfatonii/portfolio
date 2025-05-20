@@ -95,8 +95,9 @@ nav {
 }
 
 .card-experience:hover {
-  background-color: orange;
+  background-color: rgb(255, 255, 255);
   transition: 0.7s ease-out;
+  color: black;
 }
 
 
